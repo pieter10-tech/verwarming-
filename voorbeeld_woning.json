@@ -1,0 +1,14 @@
+{
+  "naam": "Voorbeeldwoning (tussenwoning)",
+  "temperatuur_binnen": 20.0,
+  "temperatuur_buiten_ontwerp": -10.0,
+  "ventilatie_debiet": 150.0,
+  "graaddagen": 2800,
+  "elementen": [
+    {"naam": "Gevel (spouw, geisoleerd)", "U": 0.25, "oppervlakte": 120.0},
+    {"naam": "Dak (geisoleerd)", "U": 0.20, "oppervlakte": 80.0},
+    {"naam": "Vloer op zand", "U": 0.25, "oppervlakte": 80.0},
+    {"naam": "Ramen (HR++)", "U": 1.10, "oppervlakte": 25.0},
+    {"naam": "Deuren", "U": 1.80, "oppervlakte": 4.0}
+  ]
+}
